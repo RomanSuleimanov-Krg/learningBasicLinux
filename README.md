@@ -1,2 +1,3 @@
 # learningBasicLinux
 Братва здарова. Скоро мои руки дойдут до оформления README файла и адекватного вида файлов с материалом. Спасибо тем кто это читает <3
+![Иллюстрация к проекту]([https://github.com/jon/coolproject/raw/master/image/image.png](https://cdn.qwenlm.ai/output/wV18g692d21ac582745330010b985ab58/t2i/ebbaeb4f-71b8-493f-af65-a8ff8f1e4513/1764565583.png?key=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJyZXNvdXJjZV91c2VyX2lkIjoid1YxOGc2OTJkMjFhYzU4Mjc0NTMzMDAxMGI5ODVhYjU4IiwicmVzb3VyY2VfaWQiOiIxNzY0NTY1NTgzIiwicmVzb3VyY2VfY2hhdF9pZCI6IjI4ODlkMTA2LWM1ZGQtNDk0Yi1iN2M2LWU4NWE2MDA0NmY2YSJ9.BiYzR1bGqNMI1QQVSVqEftiHWDyD6uReqyjjyN4eNxA))
